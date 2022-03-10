@@ -17,7 +17,7 @@ Keep track of the numerous aspects that influence client satisfaction across the
    We obtain the number of satisfied and unsatisfied consumers for each complaint type, category, and source. We may enhance our analysis by obtaining a particular customer satisfaction count for the desired gender in the desired state for the intended product. We gain a better knowledge of which goods are underperforming and causing customer unhappiness, as well as how probable it is that a gender category may affect customer satisfaction for a certain type or category of complaint.
    
 ### Predictive Model Analysis
-<img src="Images/Client Satisfaction.png?raw=true"
+<img src="Images/Predictive Analysis.png?raw=true"
      width="600" 
      height="400"/> 
      
