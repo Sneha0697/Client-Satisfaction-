@@ -3,5 +3,5 @@ Keep track of the numerous aspects that influence client satisfaction across the
 
 ### Resolve Days Analysis
 <img src="Images/Resolve Days.png?raw=true"
-     width="400" 
+     width="600" 
      height="400"/> 
